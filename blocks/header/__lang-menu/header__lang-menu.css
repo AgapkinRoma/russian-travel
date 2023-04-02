@@ -1,0 +1,15 @@
+.header__lang-menu {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+
+@media screen and (max-width:319px) {
+    .header__lang-menu {
+        align-items: center;
+        margin: 10px 0 0;
+    }
+}
