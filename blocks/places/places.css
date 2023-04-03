@@ -7,20 +7,20 @@
 }
 
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
     .places {
         width: 91%;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .places {
         gap: 172px;
         width: 94%;
     }
 }
 
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 320px) {
 .places {
     width: 100%;
     gap: 50px;

@@ -9,20 +9,20 @@
 
 }
 
-@media screen and (max-width:1023px) {
+@media screen and (max-width:1024px) {
     .header {
         width: 91%;
     }
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:768px) {
     .header {
         width: 94%;
     }
 
 }
 
-@media screen and (max-width:319px) {
+@media screen and (max-width:320px) {
     .header {
         width: 91%;
         padding-top:16px;

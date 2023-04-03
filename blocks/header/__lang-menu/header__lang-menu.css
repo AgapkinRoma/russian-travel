@@ -3,11 +3,12 @@
     margin: 0;
     display: flex;
     align-items: flex-end;
+    gap:18px;
 }
 
 
 
-@media screen and (max-width:319px) {
+@media screen and (max-width:320px) {
     .header__lang-menu {
         align-items: center;
         margin: 10px 0 0;

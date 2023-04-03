@@ -1,21 +1,14 @@
 .cover {
     width: 93%;
     margin: 0 auto;
+
 }
 
-@media screen and (max-width:1023px) {
-    .cover {
-        width: 100%;
-    }
+.сover:hover{
+    opacity: 0.8;
 }
 
-@media screen and (max-width:767px) {
-    .cover {
-        width: 100%;
-    }
-}
-
-@media screen and (max-width:319px) {
+@media screen and (max-width:1024px) {
     .cover {
         width: 100%;
     }
