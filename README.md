@@ -6,4 +6,4 @@ ___
 display:grid;
 @media screen and (max-width:);
 ```
-## Ссылка на проект - 
+## Ссылка на проект - https://agapkinroma.github.io/russian-travel/
