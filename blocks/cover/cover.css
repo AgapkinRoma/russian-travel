@@ -4,11 +4,8 @@
 
 }
 
-.сover:hover{
-    opacity: 0.8;
-}
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:673px) {
     .cover {
         width: 100%;
     }

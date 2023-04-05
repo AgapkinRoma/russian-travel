@@ -15,12 +15,12 @@
 
 @media screen and (max-width: 768px) {
     .places {
-        gap: 172px;
+        gap: 73px;
         width: 94%;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 673px) {
 .places {
     width: 100%;
     gap: 50px;

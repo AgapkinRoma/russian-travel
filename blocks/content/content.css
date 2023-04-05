@@ -10,6 +10,8 @@
     }
 }
 
+
+
 @media screen and (max-width:768px) {
     .content {
 
@@ -17,7 +19,7 @@
     }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:673px) {
     .content {
 
         gap: 64px;
