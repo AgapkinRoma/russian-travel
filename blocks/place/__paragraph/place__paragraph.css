@@ -13,7 +13,14 @@
 @media screen and (max-width:768px) {
     .place__paragraph {
         margin: 25px 0 0;
-        font-size: 16px
+        font-size: 16px;
+        
+    }
+}
+
+@media screen and (max-width:673px){
+    .place__paragraph {
+        width:99%;
     }
 }
 
